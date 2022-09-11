@@ -18,8 +18,8 @@ int main(void)
 		{
 			j = i + 1;
 			jfirst = ifirst;
-																								for (; jfirst < 58; jfirst++)
-				{
+			for (; jfirst < 58; jfirst++)				
+			{
 					for (; j < 58; j++)
 					{
 						putchar(ifirst);
@@ -30,7 +30,9 @@ int main(void)
 						if (ifirst != 57 || jfirst != 57 || i != 56 || j != 57)
 						{
 							putchar(',');
-							putchar(' ');								}									}
+							putchar(' ');
+						}
+					}
 					j = 48;
 				}
 			}
