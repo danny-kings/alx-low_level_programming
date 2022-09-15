@@ -43,7 +43,7 @@ int main(void)
 			printf("%lu0%lu", z, c);
 		if (count < 98)
 			printf(", ");
-		
+
 		count++;
 	}
 	putchar('\n');
