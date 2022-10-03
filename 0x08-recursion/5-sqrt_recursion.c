@@ -1,6 +1,5 @@
 /*
  * File: 5-sqrt_recursion.c
- * Auth: sam tech
  */
 
 #include "main.h"
