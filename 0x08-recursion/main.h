@@ -4,7 +4,6 @@
 
 /**
  * File: main.h
- * Auth: me
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x07-recursion directory.
  */
