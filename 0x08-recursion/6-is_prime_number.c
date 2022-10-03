@@ -1,5 +1,6 @@
 /*
  * File: 6-is_prime_number.c
+ * Auth: Dannyking
  */
 
 #include "main.h"
